@@ -1,0 +1,21 @@
+.gallery-container {
+	background : url( '/content/images/overlimitbg.jpg' );
+	text-align : center;
+}
+
+.container-tr {
+	margin : 10px;
+}
+
+.container-tr>.col-md-2 img {
+	height : auto;
+	width : 100%;
+}
+.gallery-container h1 {
+	text-align: left;
+	color : #fff;
+}
+
+#blueimp-gallery.blueimp-gallery.blueimp-gallery-display h3, a {
+	display : block !important;
+}

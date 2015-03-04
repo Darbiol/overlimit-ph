@@ -1,0 +1,31 @@
+body {
+	font-family : "Helvetica Neue",Helvetica,Arial,sans-serif;
+	background-color: #000 !important;
+}
+
+.parallax-module {
+	background-attachment : fixed !important;
+	background-position   : 50% 20%  !important;
+	background-repeat     : no-repeat  !important;
+	background-size       : 60%  !important;
+}
+
+.content-module {
+	color : #fff;
+	padding : 25px;
+	background-color: #323232;;
+}
+
+.parallax-1 {
+	background : url( '/content/images/logo_cover.png' );
+	height: 460px;
+}
+
+.parallax-2 {
+	background : url( '/content/images/image_0002.jpg' );
+	height: 720px;
+}
+
+.glue-buffer {
+	padding-top : 97px;
+}

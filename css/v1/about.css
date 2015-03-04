@@ -1,0 +1,8 @@
+section.content-1 {
+	background : url( '/content/images/overlimitbg.jpg' );
+	text-align : center;
+}
+
+section.content-1.glue-buffer {
+	padding-top : 100px;
+}
