@@ -8,9 +8,8 @@
   },
   "author": "Daniel Arbiol",
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
-
+    "express": "~4.12.2"
   }
 }
